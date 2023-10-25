@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Enumeração</name>
+=======
+	<name>ServiceClient</name>
+>>>>>>> 09e760f5888547b5463c2e6a543e2d3e4afe1641
 	<comment></comment>
 	<projects>
 	</projects>
